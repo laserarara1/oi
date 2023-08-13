@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu Site</title>
+</head>
+<body>
+  <header>
+    <h1>Meu Site</h1>
+    <p>Bem-vindo ao nosso site!</p>
+  </header>
+
+  <div class="container">
+    <div class="content">
+      <h2>Conteúdo Principal</h2>
+      <p>Este é o conteúdo principal do nosso site. Aqui você pode escrever sobre vários tópicos interessantes.</p>
+    </div>
+    <div class="sidebar">
+      <h3>Sidebar</h3>
+      <p>Esta é a barra lateral, onde você pode adicionar links, informações adicionais e muito mais.</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
